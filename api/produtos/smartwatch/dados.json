@@ -1,0 +1,20 @@
+{
+  "id": "smartwatch",
+  "nome": "Smartwatch",
+  "preco": 1199,
+  "descricao": "Todas estas questões, devidamente ponderadas, levantam dúvidas sobre se a necessidade de renovação processual causa impacto indireto na reavaliação do orçamento setorial.",
+  "estoque": 5,
+  "img": "./api/produtos/smartwatch/smartwatch-foto.jpg",
+  "avaliacoes": [
+    {
+      "nome": "Francivan",
+      "estrelas": 3,
+      "descricao": "Produto cumpre o que promete, so a bateria que acaba rápido."
+    },
+    {
+      "nome": "Thábata",
+      "estrelas": 5,
+      "descricao": "É o tipo de superfluo que amo!"
+    }
+  ]
+}
